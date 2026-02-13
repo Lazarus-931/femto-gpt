@@ -1,2 +1,6 @@
 # femto-gpt
-idk
+
+gpt in 2 loc
+
+
+thanks karpathy
